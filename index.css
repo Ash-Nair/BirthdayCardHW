@@ -1,0 +1,33 @@
+body{
+	background-color: #6495ED;
+}
+div.confetti{
+	width: 20px;
+	height:20px;
+	margin-top: -400px;
+}
+div.cake{
+	width: 20px;
+	height:20px;
+	margin-top: 350px;
+	margin-left: 1040px;	
+}
+img{
+	margin-top: 0px;
+}
+p{
+	font-family: Snap ITC;
+	color: #8B008B;
+	text-align: center;
+	font-size: 36;
+	margin-top: 0px;
+	margin-left: 300px;
+}
+div.content{
+	font-family: Times New Roman;
+	font-size: 20;
+	color: #F5F5F5;
+	text-align: center;
+	margin-top: -400px;
+	margin-left: 200px;
+}
